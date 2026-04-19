@@ -1,0 +1,37 @@
+[ {
+  "id" : 1,
+  "name" : "Ноутбук Acer Aspire",
+  "category" : "Електроніка",
+  "quantity" : 6,
+  "minQuantity" : 5,
+  "warehouse" : "Основний склад",
+  "storageCondition" : "Сухе приміщення",
+  "lastUpdated" : "2026-04-19T23:42:23.313794900"
+}, {
+  "id" : 2,
+  "name" : "Мишка Logitech",
+  "category" : "Аксесуари",
+  "quantity" : 12,
+  "minQuantity" : 5,
+  "warehouse" : "Основний склад",
+  "storageCondition" : "Звичайні умови",
+  "lastUpdated" : "2026-04-19T23:31:20.657941500"
+}, {
+  "id" : 3,
+  "name" : "SSD Kingston 1TB",
+  "category" : "Комплектуючі",
+  "quantity" : 10,
+  "minQuantity" : 4,
+  "warehouse" : "Склад 2",
+  "storageCondition" : "Без вологи",
+  "lastUpdated" : "2026-04-19T20:00:00"
+}, {
+  "id" : 4,
+  "name" : "Мишка",
+  "category" : "Електроніка",
+  "quantity" : 2,
+  "minQuantity" : 5,
+  "warehouse" : "Склад",
+  "storageCondition" : "сухе",
+  "lastUpdated" : "2026-04-19T23:48:18.159415800"
+} ]
